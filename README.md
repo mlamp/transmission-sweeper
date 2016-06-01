@@ -4,7 +4,6 @@
 
 ```bash
 go get github.com/mlamp/transmission-sweeper
-go install github.com/mlamp/transmission-sweeper
 ```
 
 ## Usage
